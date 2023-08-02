@@ -19,3 +19,7 @@ This is the content of Section 3.
 # Python example
 name = "John"
 age = 30
+```
+
+[Download the PDF](https://example.com/path/to/yourfile.pdf)
+
